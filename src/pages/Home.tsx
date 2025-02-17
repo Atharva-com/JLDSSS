@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from "../assets/banner.png";
 import restaurant from "../assets/restaurant.png";
-import {data} from '../restApi.json'
+// import {data} from '../restApi.json'
 
 const Home: React.FC = () => {
 
